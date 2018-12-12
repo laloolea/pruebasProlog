@@ -1,0 +1,2 @@
+# pruebasProlog
+aprendiendo prolog
